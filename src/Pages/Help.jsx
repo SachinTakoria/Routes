@@ -27,6 +27,7 @@ const Help = () => {
   return (
     <div>
         <Header/>
+        <h1>heeloo</h1>
         <div   className='News'>
           <h1>Latest News</h1>
           {
