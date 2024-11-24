@@ -1,0 +1,177 @@
+.Header{
+    height: 50px;
+    width: 100%;
+    
+    background-color: slateblue;
+}
+.Header h3{
+    float: left ;
+  margin: 0 15px;
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #fff;
+}
+.form{
+  height: 300px;
+  width: 600px;
+  background-color: sandybrown;
+  border: 1px solid black;
+  position: relative;
+
+  left: 200px;
+  top: 50px;
+  
+}
+.welcome{
+margin-left: 400px;
+width: 300px;
+height: 100px;
+
+  
+
+}
+#username{
+  height: 30px;
+  width: 400px;
+  margin-left: 60px;
+
+}
+#password{
+  height: 30px;
+  width: 400px;
+  margin-left: 60px;
+
+}
+.formbtn{
+  margin-left: 40%;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  position: relative;
+  top: 50px;
+  
+
+}
+.Headnews{
+  height: 500px;
+  width: 400px;
+  background-color: aqua;
+
+}
+.Headnews h2{
+  text-align: center;
+}
+.dis{
+  position: relative;
+  top: 70px;
+}
+.Headnews input{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  height: 30px;
+  width: 300px;
+
+}
+.Headnews textarea{
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+.btn{
+  position: relative;
+  top: 120px;
+  left: 120px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.updateBtn{
+  position: relative;
+  top: 150px;
+  left: 0px;
+  text-transform: uppercase;
+  font-size: 20px;
+
+
+}
+.table{
+  position: relative;
+  left: 450px;
+  top: -400px;
+}
+.News{
+  height: 350px;
+  width:500px;
+  background-color: steelblue;
+  position: relative;
+  left:150px;
+  top: 50px;
+  border: 2px solid black;
+
+  
+}
+.News h1{
+  text-align: center;
+  
+  
+}
+.Homenews{
+  height: 300px;
+  width: 50%;
+  position: relative;
+  left: 50%;
+  top: -250px;
+  font-size: 25px;
+}
+.Helpimg{
+  position: relative;
+  left:700px ;
+  top: -300px;
+  height:300px;
+  
+}
+.form h2{
+  text-align: center;
+}
+.form span{
+  margin-left: 400px;
+  position: relative;
+  top: 10px;
+  color: blue;
+  text-decoration: underline;
+}
+.inputBox{
+ height: 250px;
+ width: 300px;
+ border: 2px solid black  ;
+ margin-top: 30px;
+ margin-left: 150px;
+ border-radius: 10px;
+}
+.inputBox input{
+  border: transparent;
+  border-bottom: 2px solid black;
+  margin: 20px 20px;
+  text-align: center;
+  
+  width: 250px;
+  border-color: #fff;
+}
+#contactBtn{
+  text-transform: uppercase;
+  position: relative;
+  left: 120px;
+  top: 30px;
+}
+.searchBtn{
+ position: absolute;
+ top: 90px;
+ right: 150px;
+ height: 20px;
+ width: 250px;
+}
+.contactTable{
+  position: absolute;
+  right: 200px;
+  top: 150px;
+}
+
